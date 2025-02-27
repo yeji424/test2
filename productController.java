@@ -1,0 +1,3 @@
+class productController{
+	// blah blah
+}
